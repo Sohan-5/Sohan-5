@@ -12,7 +12,7 @@
 
 - Collaborating on research involving machine learning and data analytics.
 - Supporting data-driven projects focused on business innovation and AI applications.
--  Contributed to research and development of AI/ML/NLP-based solutions.
+- Contributed to research and development of AI/ML/NLP-based solutions.
 ---
 
 ### 🏢 Previous Experience
