@@ -22,11 +22,11 @@
 **Dates:** 15 Jamurary 2024 – 31 July 2024
 **Location:** Mumbai,India 
 
--Executed data-driven insights to enhance project scalability and improve customer focused satisfaction metrics
+- Executed data-driven insights to enhance project scalability and improve customer focused satisfaction metrics
 - Led a cross-functional  team of 5 in a mock project as Full Stack Developer, delivering a prototype in 3.5 weeks, improving 
 project efficiency by 20% and receiving 87% positive feedback
 - Gained proficiency in Java, Spring Boot, Microservices, React, and tools Jenkins, GitHub, and Jira
-  - Contributed to critical features using Java and Spring Boot, completing project 5% ahead of schedule, boosting client 
+- Contributed to critical features using Java and Spring Boot, completing project 5% ahead of schedule, boosting client 
 satisfaction and scalability
 
 
