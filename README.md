@@ -28,7 +28,7 @@ project efficiency by 20% and receiving 87% positive feedback
 - Gained proficiency in Java, Spring Boot, Microservices, React, and tools Jenkins, GitHub, and Jira
   - Contributed to critical features using Java and Spring Boot, completing project 5% ahead of schedule, boosting client 
 satisfaction and scalability
----
+
 
 
 
