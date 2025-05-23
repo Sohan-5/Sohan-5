@@ -13,6 +13,9 @@
 - Collaborating on research involving machine learning and data analytics.
 - Supporting data-driven projects focused on business innovation and AI applications.
 -  Contributed to research and development of AI/ML/NLP-based solutions.
+---
+
+### 🏢 Previous Experience
 
 #### Analyst at Deloitte  
 **Employment Type:** Full-time  
@@ -27,7 +30,7 @@ project efficiency by 20% and receiving 87% positive feedback
 satisfaction and scalability
 ---
 
-### 🏢 Previous Experience
+
 
 #### Project Trainee at Mastek Limited  
 **Employment Type:** Internship  
